@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.8.30)  22 DEC 2014 02:33
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.10.31)  22 DEC 2014 19:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -56,73 +56,69 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 30.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 59.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 63.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 59.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 63.
 
-Overfull \hbox (1.19933pt too wide) in paragraph at lines 64--65
-[]\OT1/cmr/m/n/10 Pallab Biswas, \OT1/cmr/bx/n/10 Vivek Nair\OT1/cmr/m/n/10 ,So
-umen Nandi,Soumendra Nath Biswas,Amitav Biswas,Animesh Dutta.
+Underfull \hbox (badness 10000) in paragraph at lines 63--69
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--82
+Underfull \hbox (badness 10000) in paragraph at lines 83--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 96--101
+Underfull \hbox (badness 10000) in paragraph at lines 103--107
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--110
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--118
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--144
-
+Overfull \hbox (1.19933pt too wide) in paragraph at lines 129--130
+[]\OT1/cmr/m/n/10 Pallab Biswas, \OT1/cmr/bx/n/10 Vivek Nair\OT1/cmr/m/n/10 ,So
+umen Nandi,Soumendra Nath Biswas,Amitav Biswas,Animesh Dutta.
  []
 
 [2] ) 
 Here is how much of TeX's memory you used:
- 312 strings out of 495032
- 3375 string characters out of 6181718
- 53360 words of memory out of 5000000
+ 312 strings out of 495028
+ 3375 string characters out of 6181496
+ 54360 words of memory out of 5000000
  3601 multiletter control sequences out of 15000+600000
  5200 words of font info for 19 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,8n,21p,309b,167s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,21p,265b,167s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv_2.pdf (2 pages, 99532 bytes).
+Output written on cv_2.pdf (2 pages, 94855 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
+ 35 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
